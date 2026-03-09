@@ -124,10 +124,8 @@ hobbies: ["Digital Designer", "Scripting", "Creating Content"]
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alaevate.alaevate&"  />
+  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=alaevate.alaevate&"  /></a>
 </div>
 <div align="center">
-  <img src="https://hit.yhype.me/github/profile?account_id=128975433"  />
+  <a href="#"><img src="https://hit.yhype.me/github/profile?account_id=128975433"  /></a>
 </div>
-
-###
