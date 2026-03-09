@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://discord.gg/Codes" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25"  /></a>
+  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25"  /></a>
 </div>
 
 <div align="center">
