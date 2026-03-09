@@ -1,15 +1,14 @@
-                                    
 <div align="center">
-  <a href="https://discord.gg/Codes" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25" alt="<Code/> Server"  /></a>
+  <a href="https://discord.gg/Codes" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25"  /></a>
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://image.benq.com/is/image/benqco/04-behind-great-thinking-v3?scl=1&fmt=png-alpha" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/alaevate/alaevate/refs/heads/main/assets/header.svg" /></a>
 </div>
 
 <div align="center">
-  <a href="#" target="_blank"><img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  /></a>
-  <a href="#" target="_blank"><img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <a href="#" target="_blank"><img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25"  /></a>
+  <a href="#" target="_blank"><img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25"  /></a>
 </div>
 
 ###
@@ -21,16 +20,14 @@
 <div>
 
 ```rust
-name: Alae-EDdine Taoubane
+name: Alae-EDdine
 located_in: Casablanca, Morocco
 job: Full-stack developer
 education: ["Diploma's in Full Stack Development", "Licence's in Business Management"]
-fields_of_interests: ["Web Development", "Cloud Computing", "UI/UX Design", "Machine Learning"]
+fields_of_interests: ["Web Development", "Open Source", "UI/UX Design", "Machine Learning"]
 technical_background: ["Frontend Development", "Backend Development", "Database Management",
                        "API Integration", "Version Control (Git)", "Testing & Debugging"]
-currently_learning: ["Advanced JavaScript", "Taillwind", "TypeScript", "ReactJS"]
-will_learn: ["MongoDB", "NodeJS", "ExpressJS"]
-hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Designer"]
+hobbies: ["Digital Designer", "Scripting", "Creating Content"]
 ```
 
 </div>
@@ -42,37 +39,46 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 ###
 
 <div align="center">
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" /></a>
-  <img width="12" />
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50" />
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" />
+  <img />
 </div>
 
 ###
@@ -83,7 +89,7 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <div align="center">  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaevate&show_icons=true&theme=transparent&rank_icon=github&hide=prs,issues&custom_title=Alae-EDdine's%20Stats&border_radius=10&bg_color=151b22&text_color=5bb3fc&hide_border=true&title_color=fff&icon_color=fe8732" width="100%" height="auto" />
+  <img src="https://raw.githubusercontent.com/alaevate/alaevate/refs/heads/main/assets/stats.svg" width="100%" height="auto" />
 </a>
 </div> 
 
@@ -107,15 +113,11 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 
 <div align="center">
   <a href="mailto:alaevate@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40"  />
   </a>
-    <img width="12" />
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" height="40" alt="slack logo"  />
-  </a>
-    <img width="12" />
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo"  />
+  <img />
+  <a href="https://x.com/alaevate" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40"  />
   </a>
 </div>
 
@@ -124,7 +126,6 @@ hobbies: ["Competitive Gaming", "Scripting", "Creating Content", "Digital Design
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alaevate.alaevate&"  />
 </div>
-
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?account_id=128975433"  />
 </div>
