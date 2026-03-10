@@ -22,7 +22,7 @@
 ```rust
 name: Alae-EDdine
 located_in: Casablanca, Morocco
-job: Full-stack developer
+job: Full-Stack Web Developer
 education: ["Diploma in Full-Stack Development", "Bachelor’s Degree in Business Management"]
 fields_of_interests: ["Web Development", "Open Source", "UI/UX Design", "Machine Learning"]
 technical_background: ["Frontend Development", "Backend Development", "Database Management",
