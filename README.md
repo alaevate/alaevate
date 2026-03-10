@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=black&color=black&link=https%3A%2F%2Fdiscord.gg%2FUPyggZ2cK8" height="25"  /></a>
+  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/discord/827945236218904627?style=flat-square&logo=discord&logoColor=white&logoSize=auto&label=%20&labelColor=090D15&color=090D15" height="25"  /></a>
 </div>
 
 <div align="center">
@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <a href="#" target="_blank"><img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25"  /></a>
-  <a href="#" target="_blank"><img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25"  /></a>
+  <a href="#" target="_blank"><img align="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=090D15&logoColor=white&labelColor=090D15&style=for-the-badge" height="25"  /></a>
+  <a href="#" target="_blank"><img align="left" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=090D15&logoColor=white&labelColor=090D15&style=for-the-badge" height="25"  /></a>
 </div>
 
 ###
