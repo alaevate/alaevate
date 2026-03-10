@@ -23,7 +23,7 @@
 name: Alae-EDdine
 located_in: Casablanca, Morocco
 job: Full-stack developer
-education: ["Diploma's in Full Stack Development", "Licence's in Business Management"]
+education: ["Diploma in Full-Stack Development", "Bachelor’s Degree in Business Management"]
 fields_of_interests: ["Web Development", "Open Source", "UI/UX Design", "Machine Learning"]
 technical_background: ["Frontend Development", "Backend Development", "Database Management",
                        "API Integration", "Version Control (Git)", "Testing & Debugging"]
